@@ -1,10 +1,13 @@
 # <center>Becky Weeks
+Hey, I'm Becky. I build backend systems in Node.js, design cloud infrastructure on GCP, and care a lot about clean, maintainable code. I also have a soft spot for frontend work, I can't help but want things to look good. I made the jump from apparel design to shipping production software, ramping from bootcamp to contractor at a Fortune 500 company in under a year, which means I'm not afraid of learning something hard from scratch.
+
 <div align="center">
 
-See my projects in action:
+**Want to know more? Start here:**
 
 [![Website](https://img.shields.io/badge/website-beckyweeks.dev-blue)](https://beckyweeks.dev)
 
+</div>
 </div>
 <h2>Certifications & Training</h1>
 <div id="header" align="center">
